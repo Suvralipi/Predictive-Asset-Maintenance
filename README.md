@@ -14,3 +14,24 @@ Its a Prediction or Regression problem wherein we have to predict the Remaining 
 
 Evaluate various Regression Techniques along with Hyperparameters Tuning and pick the best model for Regression purpose.
 Use the predicted RUL for classifing if an asset requires maintenance or not. 
+
+### Regression Techniques Evaluated 
+1. Ramdom Forest Regressor
+2. Elastic Net Regressor
+3. Support Vector Machine Regressor
+4. Gradient Boost Regressor
+5. Voting Regressor
+6. AdaBoost Regressor
+7. HistGradient Boost Regressor
+8. XGBoost Regressor
+9. Stacking Regressor
+10. Deep Learning Model 
+
+### Metrics Used
+* R Squared
+* Explained Variance
+* Mean Absolute Error
+* Median Absolute Error
+* Max Error
+* Mean Squared Error
+* Root Mean Squared Error
